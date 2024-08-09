@@ -1,0 +1,21 @@
+
+body {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: rgb(222, 247, 255);
+}
+img {
+    border-radius: 25px;
+    height: 300px;
+    width: 500px;
+}
+
+.jogos {
+    background-color: black;
+    padding: 1em 20em;
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
