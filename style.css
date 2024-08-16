@@ -1,4 +1,7 @@
-
+* {
+    margin: 0;
+    padding: 0;
+}
 body {
     text-align: center;
     font-family: sans-serif;
@@ -18,4 +21,13 @@ img {
 a {
     text-decoration: none;
     color: white;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: #fff;
+    margin-top: 20px;
+    padding: 25px 0;
 }
