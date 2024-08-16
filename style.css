@@ -5,7 +5,10 @@
 body {
     text-align: center;
     font-family: sans-serif;
-    background-color: rgb(222, 247, 255);
+}
+.link {
+    padding: 25px;
+    background-color: #333;
 }
 img {
     border-radius: 25px;
@@ -30,4 +33,17 @@ footer {
     color: #fff;
     margin-top: 20px;
     padding: 25px 0;
+}
+
+h1 {
+    padding: 25px;
+    background-color: #333;
+    color: #fff;
+}
+
+.espaco {
+    margin: 20px 20px;
+}
+a:hover {
+    color: #858585;
 }
